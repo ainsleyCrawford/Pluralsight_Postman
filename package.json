@@ -11,25 +11,25 @@
     "watch": "npm run test:watch & npm run lint:watch"
   },
   "dependencies": {
-    "body-parser": "~1.17.1",
+    "body-parser": "^1.19.0",
     "cookie-parser": "~1.4.3",
     "cross-env": "^5.1.1",
-    "debug": "~2.6.3",
+    "debug": "^2.6.9",
     "eslint": "^4.5.0",
     "eslint-watch": "^3.1.2",
-    "express": "~4.15.2",
+    "express": "^4.17.1",
     "jade": "~1.11.0",
     "json-server": "^0.16.1",
-    "morgan": "~1.8.1",
+    "morgan": "^1.10.0",
     "nodemon": "^1.11.0",
     "ramda": "^0.25.0",
-    "serve-favicon": "~2.4.2"
+    "serve-favicon": "^2.5.0"
   },
   "devDependencies": {
     "chai": "^4.1.1",
     "mocha": "^3.5.0",
     "newman": "^3.8.3",
-    "node-mocks-http": "^1.6.4",
+    "node-mocks-http": "^1.10.1",
     "testdouble": "^3.2.4"
   }
 }
