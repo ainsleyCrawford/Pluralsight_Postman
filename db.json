@@ -68,6 +68,75 @@
           "href": "http://localhost:3000/books/7"
         }
       ]
+    },
+    {
+      "title": "The Right Side of History: How Reason and Moral Purpose Made the West Great",
+      "author": "Ben Shapiro",
+      "isbn": "9780062857903",
+      "releaseDate": "2019-03-19",
+      "createdAt": "2021-03-24T15:12:30.597Z",
+      "updatedAt": "2021-03-24T15:12:30.597Z",
+      "id": 8,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/8"
+        }
+      ]
+    },
+    {
+      "title": "When Harry Became Sally: Responding to the Transgender Moment",
+      "author": "Ryan T. Anderson",
+      "isbn": "9781641770491",
+      "releaseDate": "2019-08-01",
+      "createdAt": "2021-03-24T15:30:19.840Z",
+      "updatedAt": "2021-03-24T15:30:19.840Z",
+      "id": 9,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/9"
+        }
+      ]
+    },
+    {
+      "title": "False Black Power?",
+      "author": "Jason L. Riley",
+      "isbn": "9781599475196",
+      "releaseDate": "2017-05-15",
+      "createdAt": "2021-03-24T15:33:30.298Z",
+      "updatedAt": "2021-03-24T15:33:30.298Z",
+      "id": 10,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/10"
+        }
+      ]
+    },
+    {
+      "title": "Basic Economics: A Common Sense Guide to the Economy (5th Edition)",
+      "author": "Thomas Sowell",
+      "isbn": "9780465060733",
+      "releaseDate": "2014-12-02",
+      "createdAt": "2021-03-24T15:48:27.952Z",
+      "updatedAt": "2021-03-24T15:48:27.952Z",
+      "id": 11,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/11"
+        }
+      ]
+    },
+    {
+      "title": "When Harry Became Sally: Responding to the Transgender Moment",
+      "author": "Ryan T. Anderson",
+      "isbn": "9781641770491",
+      "releaseDate": "2018-02-20",
+      "createdAt": "2021-03-24T16:03:57.774Z",
+      "updatedAt": "2021-03-24T16:03:57.774Z",
+      "id": 12
     }
   ],
   "households": [
