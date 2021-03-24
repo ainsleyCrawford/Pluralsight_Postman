@@ -1,3 +1,6 @@
+### Pluralsight Postman Course by Nate Taylor
+https://github.com/taylonr/postman
+
 ## After Cloning
 After cloning the repo, make sure to run `npm install` in the root of the project directory.
 
